@@ -1,0 +1,24 @@
+{
+    "name": "Basic K8s Pods Template",
+    "id": "com.github.Slammer21.plugin.templates.basic-pod-template",
+    "author": "Chaitanya Agarwal",
+    "version": "1.0.0",
+    "description": "Creates a Basic K8s Pod for a Specified Image",
+    "repository": "",
+    "type": "vanilla",
+    "forms": [
+      {
+        "name": "Pod Settings Form",
+        "description": "Takes input of all the values to create a basic k8s pod for a specificed image",
+        "schema": "form-schema.json",
+        "uiSchema": "form-ui-schema.json"
+      }
+    ],
+    "manifests": [
+      {
+        "filePath": "template.yaml"
+      }
+    ],
+    "resultMessage": "Hurray!!! Pod resource created successfully!",
+    "helpUrl": "https://github.com/Slammer21/My-Monokle-Plugin"
+  }

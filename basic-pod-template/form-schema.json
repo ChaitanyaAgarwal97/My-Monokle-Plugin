@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "required": ["name", "image"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "default": "nginx-pod"
+      },
+      "namespace": {
+        "type": "string"
+      },
+      "image": {
+        "type": "string",
+        "default": "nginx"
+      }
+    }
+  }

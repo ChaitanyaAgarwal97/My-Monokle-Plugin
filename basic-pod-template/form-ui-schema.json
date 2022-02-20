@@ -1,0 +1,16 @@
+{
+    "name": {
+      "ui:title": "Name of Pod",
+      "ui:help": "The name of the Pod"
+    },
+    "namespace": {
+      "ui:title": "Namespace",
+      "ui:help": "The target namespace for the Pod",
+      "ui:widget": "namespaceSelection"
+    },
+    "image": {
+      "ui:title": "Image to be used",
+      "ui:help": "The image name to use for the Pod, for example nginx:latest. Default is nginx."
+    }
+  }
+  
