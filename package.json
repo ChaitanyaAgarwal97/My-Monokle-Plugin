@@ -6,7 +6,7 @@
   "repository": "https://github.com/Slammer21/My-Monokle-Plugin",
   "monoklePlugin": {
     "id": "com.github.Slammer21.plugin.templates",
-	"helpUrl": "https://github.com/kunal-kushwaha/monokle-templates-plugin",
+	"helpUrl": "https://github.com/Slammer21/My-Monokle-Plugin",
     "modules": [
       {
         "type": "template",
