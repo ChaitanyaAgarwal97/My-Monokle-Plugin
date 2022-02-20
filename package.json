@@ -1,0 +1,15 @@
+{
+  "name": "Templates Plugin",
+  "description": "This is a custom manifest templates plugin for Monokle",
+  "version": "1.0.0",
+  "author": "Chaitanya Agarwal",
+  "repository": "https://github.com/Slammer21/My-Monokle-Plugin",
+  "monoklePlugin": {
+    "modules": [
+      {
+        "type": "template",
+        "path": "basic-pod-template"
+      }
+    ]
+  }
+}
