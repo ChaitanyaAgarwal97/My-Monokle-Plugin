@@ -5,7 +5,7 @@
   "author": "Chaitanya Agarwal",
   "repository": "https://github.com/Slammer21/My-Monokle-Plugin",
   "monoklePlugin": {
-    "id": "com.github.kunal-kushwaha.plugin.templates",
+    "id": "com.github.Slammer21.plugin.templates",
 	"helpUrl": "https://github.com/kunal-kushwaha/monokle-templates-plugin",
     "modules": [
       {
