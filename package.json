@@ -1,5 +1,5 @@
 {
-  "name": "Templates Plugin",
+  "name": "my-templates-plugin",
   "description": "This is a custom manifest templates plugin for Monokle",
   "version": "1.0.0",
   "author": "Chaitanya Agarwal",
